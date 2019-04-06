@@ -1,5 +1,5 @@
 
-
+//Doubly Linked List
 public class DLinkedList<K> {
 	
 	public class Node<E>{
