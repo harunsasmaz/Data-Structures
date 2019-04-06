@@ -1,3 +1,6 @@
+//Edges that are used to bind vertices.
+//This is a component of "Directed Weighted Graph" implementation.
+
 package Graph;
 
 public class Edge<T> {
