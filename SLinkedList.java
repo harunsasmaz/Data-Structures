@@ -1,4 +1,4 @@
-
+//Singly Linked List
 public class SLinkedList<K> {
 	
 	public class Node<E>{
