@@ -1,3 +1,7 @@
+//Nodes that are used as vertices.
+//This is a component of "Directed Weighted Graph" implementation.
+
+
 package Graph;
 
 import java.util.*;
