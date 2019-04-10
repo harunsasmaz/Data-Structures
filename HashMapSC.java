@@ -55,7 +55,8 @@ public class HashMapSC<A,B> {
 	}
 
 	private int randomParam() {
-		return (int)(Math.random()*(p - 2) + 1);
+		Random random = new Random();
+		return random.nextInt(p);
 	}
 
 	private void calculateParams() {
